@@ -10,3 +10,5 @@ I analyzed the data stored for the year 2018. The data was saved in the CSV form
 As a result, the plot (Figure 1) showed drastic climatic differences. Death Valley data is shown as transparent, while Grand Canyon is opaque. Both parks displayed a high range of temperatures during the day, but overall the grand canyon presented much lower temperatures. Additionally, the plot displayed an interesting pattern that occurred throughout the year. The Grand Canyon highs were the approximate lows for Death Valley.
 
 But why such a shift in temperatures between the parks that are only 100 miles away? My hypothesis is the difference in altitudes. The Grand Canyon sits around 7000” in elevation, while Death Valley is at a whopping -200” below sea level.
+
+![](https://raw.githubusercontent.com/LarryS19/DeathValley-vs-GrandCanyon/main/Figure_1.png)
