@@ -11,4 +11,6 @@ As a result, the plot (Figure 1) showed drastic climatic differences. Death Vall
 
 But why such a shift in temperatures between the parks that are only 100 miles away? My hypothesis is the difference in altitudes. The Grand Canyon sits around 7000” in elevation, while Death Valley is at a whopping -200” below sea level.
 
+Please see my [blog post](https://larrys19.github.io/2021/05/07/National-Parks.html) for an in-depth overview.
+
 ![](https://raw.githubusercontent.com/LarryS19/DeathValley-vs-GrandCanyon/main/Figure_1.png)
